@@ -14,6 +14,3 @@ Où algo_test est à choisir parmis les differents algorithmes proposés:
 - algo_quadrillage.py
 
 Un répertoire *tests* de fichiers à tester est proposé.
-
-## Authors 
-Paul Dudnic & Valérian Thomas
